@@ -1,4 +1,4 @@
-# 🤖 Chatbot using HTML, CSS & JavaScript
+# 🤖 Chatbot using HTML, CSS & JavaScript Name - Radha 1.0 
 
 A simple **text-based chatbot** built using **HTML, CSS, and JavaScript**.  
 This project demonstrates how to create an **interactive chatbot UI** that responds with pre-defined replies, making it a great starting point for **web-based conversational agents**.
@@ -27,4 +27,5 @@ Key highlights:
 ---
 
 If you like this project, consider giving it a **"STAR"** and sharing it with others!⭐
+
 ---

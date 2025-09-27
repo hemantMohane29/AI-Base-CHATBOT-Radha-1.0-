@@ -26,8 +26,6 @@ Key highlights:
 
 ---
 
-
 If you like this project, consider giving it a **"STAR"** and sharing it with others!⭐
-
 
 ---
